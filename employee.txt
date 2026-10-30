@@ -1,0 +1,6 @@
+Employee Profile
+
+Role: Junior Developer
+Department: Technology
+Skills: Git, GitHub, SQL, Java
+Status: Active
